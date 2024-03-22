@@ -5,7 +5,7 @@ This is a module that makes it easy to use the [logger plugin](https://pub.dev/p
 
 ##  Installation
 1. If the juneflow project doesn't exist, please create it by following [this guide](https://doc.juneflow.org/get-started).
-2. open terminal in the juneflow project root, enter the following command.
+2. open terminal in the juneflow project root directory, enter the following command.
  ```bash
  june add logger_module
  ```
