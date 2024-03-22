@@ -1,17 +1,14 @@
 [![pub package](https://img.shields.io/pub/v/logger_module.svg)](https://pub.dartlang.org/packages/logger_module)
 
 # logger_module
-This module is a module of the juneflow
+This is a module that makes it easy to use the [logger plugin](https://pub.dev/packages/logger).
 
-## Description
-module about logger apply and use
-
-## Quick Started
-- If the juneflow project doesn't exist, please create it by following [this guide](https://doc.juneflow.org/get-started).
-1. open terminal in the project root, enter the following command.
-    ```bash
-    june add logger_module
-    ```
+##  Installation
+1. If the juneflow project doesn't exist, please create it by following [this guide](https://doc.juneflow.org/get-started).
+2. open terminal in the juneflow project root, enter the following command.
+ ```bash
+ june add logger_module
+ ```
 
 ## Usage
 use log instead of print
