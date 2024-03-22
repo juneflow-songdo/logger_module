@@ -1,9 +1,9 @@
 name: logger_module
 description: "JuneFlow Module for logger"
 #publish_to: 'none'
-repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneflow-songdo/logger_module
 
-version: 0.0.1+1
+version: 1.0.0+5
 
 environment:
   sdk: '>=3.3.1 <4.0.0'

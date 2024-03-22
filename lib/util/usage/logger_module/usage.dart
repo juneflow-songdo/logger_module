@@ -6,7 +6,7 @@ String _noteName = "Note";
 
 T _button00 = T("00", onTap: (BuildContext context) async {
   ////////////////////////////////////////
-
+  log("hello world");
   ////////////////////////////////////////
 });
 
